@@ -38,15 +38,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Русские каналы",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Turk kanallari",TRT 1 (1080p)
-https://trt1.persona.video/master.m3u8?hls=1
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Turk kanallari",TRT 1 (1080p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Turk kanallari",TRT 1 (1080p)
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Turk kanallari",TRT 1 (720p)
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Turk kanallari",TRT 2
-https://trt2.blutv.com/blutv_trt2/live.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Turk kanallari",TRT 2 (720p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Turk kanallari",TRT Haber (720p)
@@ -57,10 +49,6 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turk kanallari",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turk kanallari",Show TV
-http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turk kanallari",Show TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Turk kanallari",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Turk kanallari",Kanal 7
@@ -78,8 +66,6 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Turk kanallari",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Turk kanallari",Halk TV
-https://halktv.blutv.com/blutv_halktv_live/live.m3u8 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="" group-title="Turk kanallari",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Turk kanallari",TRT Spor (1080p) [Geo-blocked]
